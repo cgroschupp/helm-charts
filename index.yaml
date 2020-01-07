@@ -3,20 +3,20 @@ entries:
   cert-manager-webhook-softlayer:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-18T15:54:18.522677689Z"
+    created: "2020-01-07T09:17:49.501968118Z"
     description: A Helm chart for Kubernetes
-    digest: e8ea0c6e57421ecba0ab7b340c56b0ef3dc5fb59227fe0804b07912856f9e70e
+    digest: 18a87e4527f9c27b2a999624d805cf9f7d16524260e794595f7cd535c4e1e97d
     name: cert-manager-webhook-softlayer
     urls:
     - cert-manager-webhook-softlayer-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-18T15:54:18.522384088Z"
+    created: "2020-01-07T09:17:49.501652017Z"
     description: A Helm chart for Kubernetes
     digest: aef15359f05015c048406784f268e048d0356e1dcd81b4d63c84298f61b8eb78
     name: cert-manager-webhook-softlayer
     urls:
     - cert-manager-webhook-softlayer-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-18T15:54:18.521871586Z"
+generated: "2020-01-07T09:17:49.501084716Z"
